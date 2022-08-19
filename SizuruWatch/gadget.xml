@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+	<name>Rewrite Sizuru Clock (EN)</name>
+	<version>1.0.0.1</version>
+	<author name="Key">
+		<info url="key.visualarts.gr.jp" />
+		<logo src="key_logo.png" />
+	</author>
+	<copyright>&#169; 2012 VisualArt's/Key</copyright>
+	<description>
+		This is a clock of the Rewrite character "Sizuru".
+		Clicking makes Sizuru speak a line appropriate to current time.
+		&#169; Halfwidth patch by osk 2020.
+		&#169; Translations by 4vate, yousei 2021.
+	</description>
+	<icons>
+		<icon src="icon.png" width="120" height="190" />
+	</icons>
+	<hosts>
+		<host name="sidebar">
+			<base type="HTML" apiVersion="1.0.0" src="main.html" />
+			<permissions>Full</permissions>
+			<platform minPlatformVersion="1.0" />
+			<defaultImage src="icon.png" />
+		</host>
+	</hosts>
+</gadget>
+
