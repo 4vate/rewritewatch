@@ -1,4 +1,4 @@
-# rewriteclock
+# rewritewatch
 Translation of Rewrite Harvest festa! Windows gadgets.
 
 **This is a FREE translation for fans, by fans. Only noncommercial, private or personal use allowed.**
